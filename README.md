@@ -1,4 +1,14 @@
 # EECS 351 Final Project: GAN Style Transfer
+
+## Credits:
+EECS 504, Homework starter code
+
+Paper by Leon A. Gatys, Alexander S. Ecker, Matthias Bethge
+
+Title: A Neural Algorithm of Artistic Style, Link: https://arxiv.org/abs/1508.06576
+
+Code Modified by: Jason Ning
+
 ## Overview:
 The group was provided a starter code from EECS 504 (University of Michigan) and was 
 tasked to implement 3 important functions: the Gram Matrix, Style loss, and Content loss.
