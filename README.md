@@ -1,7 +1,7 @@
 # EECS 351 Final Project: Neural Style Transfer
 (GAN code in another repo: https://github.com/ziyang-ning/p2GAN_ForTF2)
 ## Credits:
-EECS 504, Homework starter code
+EECS 504, EECS 442 Homework starter code
 
 Paper by Leon A. Gatys, Alexander S. Ecker, Matthias Bethge
 
