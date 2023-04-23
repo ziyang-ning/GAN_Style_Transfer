@@ -29,5 +29,12 @@ if everything works, you should see **Style images exist you have the artbench s
 
 ## Over All file structure:
 You might not have folders such as Slides, since you don't need these information
-![file structure](filestructure.png)
+![file structure](./README_PICS/filestructure.png)
+
+## Results
+![file structure](./README_PICS/results1.png)
+![file structure](./README_PICS/results2.png)
+![file structure](./README_PICS/results3.png)
+![file structure](./README_PICS/results4.png)
+![file structure](./README_PICS/results5.png)
 
